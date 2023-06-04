@@ -6,3 +6,5 @@ echo "Area of rectangle "$area
 echo "perimeter of rectangle "$pei
 echo "Enter the radius of circle"
 read r
+theyd
+,dndkdmdmmd
